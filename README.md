@@ -13,6 +13,7 @@ So you can open it with notepad or notepad++ and copy this string content to app
 To decrypt file use:
 EncryptWithPassword -p somepassword -f c:\temp\content\file.png.aes.base64 -o Decrypt
 
+If you don't know how to compile code download it from [link to zip](https://github.com/AdamMachera/EncryptWithPassword/raw/master/EncyptWithPassword.zip).
 
 Important:
 <p>1. If you are securing list of some sensitive data beware of viruses/malware and keyloggers.</p>
